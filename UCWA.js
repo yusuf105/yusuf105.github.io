@@ -5,7 +5,7 @@
 	
 		{
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/yusuf105/YM/main/changelog-en.html"
+			"changelog": "https://raw.githubusercontent.com/yusuf105/updater/main/changelog-en.html"
 		}
 	]
 }
