@@ -1,6 +1,6 @@
 {
 	"version": "2.1",
-	"download": "https://ymmods-official.blogspot.com/2021/04/ymwa.html",
+	"download": "https://uchimods-web.blogspot.com/2021/12/blog-post.html?m=1",
 	"update": [
 	
 			{
