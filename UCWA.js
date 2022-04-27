@@ -1,5 +1,5 @@
 {
-	"version": "4.1",
+	"version": "4.2",
 	"download": "https://uchimods-web.blogspot.com/2021/12/blog-post.html?m=1",
 	"update": [
 	
