@@ -1,19 +1,36 @@
+
 {
-	"version": "4.1",
-	"download": "https://uchimods-web.blogspot.com/2021/12/blog-post.html?m=1",
+
+	"version": "7.1",	"download": "https://uchimods-web.blogspot.com/2022/01/ucwhatsapp-business-v11_27.html?m=1",
+
 	"update": [
+
 	
+
 			{
+
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/yusuf105/updater/main/changelog-en.html"
+
+			"changelog": "https://raw.githubusercontent.com/yusuf105/yusuf105.github.io/master/updaterbisnis.html"
+
 		},
+
 		{
+
 			"languaje": "es",
-			"changelog": "https://raw.githubusercontent.com/yusuf105/updater/main/changelog-en.html"
+
+			"changelog": "https://raw.githubusercontent.com/yusuf105/yusuf105.github.io/master/updaterbisnis.html"
+
 		},
+
 		{
+
 			"languaje": "pt",
-			"changelog": "https://raw.githubusercontent.com/yusuf105/updater/main/changelog-en.html"
+
+			"changelog": "https://raw.githubusercontent.com/yusuf105/yusuf105.github.io/master/updaterbisnis.html"
+
 		}
+
 	]
+
 }
