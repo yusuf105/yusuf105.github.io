@@ -1,7 +1,7 @@
 
 {
 
-	"version": "7.1",	"download": "https://uchimods-web.blogspot.com/2022/01/ucwhatsapp-business-v11_27.html?m=1",
+	"version": "1.0",	"download": "https://uchimods-web.blogspot.com/2022/01/ucwhatsapp-business-v11_27.html?m=1",
 
 	"update": [
 
